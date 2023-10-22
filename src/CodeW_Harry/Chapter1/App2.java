@@ -1,4 +1,4 @@
-package chapter1;
+package CodeW_Harry.Chapter1;
 
 // Write a program to sum three numbers in Java
 public class App2 {
